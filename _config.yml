@@ -1,5 +1,5 @@
 title:            Gdreamlend's Blog
-description:      技术宅征服世界(Technique nerds conquer the world)
+description:      #技术宅征服世界(Technique nerds conquer the world)
 disqus_shortname: gdreamlend
 comments: true
 share: true
@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Owner/author information
 owner:
-  name:           Jiaojiao Gao (Seeksky)
+  name:           Jiaojiao Gao (Gdreamlend)
   avatar:         avatar.jpg
   bio:            "My name is Jiaojiao Gao."
   email:          gdreamlend@gmail.com
@@ -24,7 +24,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:   https://plus.google.com/109742831833154437581
+  google_plus:   #https://plus.google.com/109742831833154437581
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
