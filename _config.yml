@@ -28,8 +28,8 @@ owner:
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
-feature:# http://seeksky.qiniudn.com/19.jpg-clip.jpg
-qiniu:# http://seeksky.qiniudn.com
+feature: http://gdreamlend.qiniudn.com/19.jpg-clip.jpg
+qiniu: http://gdreamlend.qiniudn.com
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-46212341-5
@@ -41,7 +41,7 @@ bing_verify:
 # For external links add external: true
 links:
   #- title: BAE Blog(abandon)
-  #  url: http://seeksky.duapp.com
+  #  url: http://gdreamlend.duapp.com
   # external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
