@@ -4,13 +4,13 @@ disqus_shortname: xujinlai
 comments: true
 share: true
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://jinlaixu.net
+url:              http://gaojiaojiao.tk
 relative_permalinks: true
 
 
 # Owner/author information
 owner:
-  name:           Jinlai Xu (Seeksky)
+  name:           Jiaojiao Gao (Seeksky)
   avatar:         avatar.jpg
   bio:            "My name is Jinlai Xu, you can call me Seeksky(my nickname) or Andy(my official english name). My favourite is computer and every thing related to it."
   email:          xujinlai@gmail.com
