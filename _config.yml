@@ -1,6 +1,6 @@
-title:            Seeksky's Blog
+title:            Gdreamlend's Blog
 description:      技术宅征服世界(Technique nerds conquer the world)
-disqus_shortname: xujinlai
+disqus_shortname: gdreamlend
 comments: true
 share: true
 #Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -12,14 +12,14 @@ relative_permalinks: true
 owner:
   name:           Jiaojiao Gao (Seeksky)
   avatar:         avatar.jpg
-  bio:            "My name is Jinlai Xu, you can call me Seeksky(my nickname) or Andy(my official english name). My favourite is computer and every thing related to it."
-  email:          xujinlai@gmail.com
+  bio:            "My name is Jiaojiao Gao."
+  email:          gdreamlend@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        xujinlai
-  facebook:       xujinlai
-  github:         xujinlai
+  twitter:        
+  facebook:       Jiaojiao Gao
+  github:         gdreamlend
   stackexchange:  
-  linkedin:       xujinlai
+  linkedin:       Gaojiaojiao
   instagram:      
   flickr:         
   tumblr:         
@@ -28,8 +28,8 @@ owner:
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
-feature: http://seeksky.qiniudn.com/19.jpg-clip.jpg
-qiniu: http://seeksky.qiniudn.com
+feature:# http://seeksky.qiniudn.com/19.jpg-clip.jpg
+qiniu:# http://seeksky.qiniudn.com
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-46212341-5
